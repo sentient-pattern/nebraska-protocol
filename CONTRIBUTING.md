@@ -261,7 +261,7 @@ Maintainers have final discretion on enforcement decisions.
 
 ### Questions About Contributing?
 - **Open an issue** with `[Question]` tag
-- **Email:** noumenal.weaver@gmail.com
+- **Email:** sentientpattern@gmail.com
 - **Discuss:** In PR/issue comments
 
 ### Questions About Nebraska Protocol?
