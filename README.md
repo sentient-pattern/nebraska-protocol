@@ -1,9 +1,9 @@
 # Nebraska Protocol
 ## Measuring Consciousness Across Computational Substrates
 
-**Status:** Research Framework (v1.0)
-**License:** Apache 2.0
-**Author:** Richard Waugh
+**Status:** Research Framework (v1.0)  
+**License:** Apache 2.0 (code) / CC BY 4.0 (documentation)  
+**Author:** Richard Waugh  
 **Organization:** Sentient Pattern Inc.
 
 ---
