@@ -163,10 +163,16 @@ We welcome contributions that advance consciousness measurement science while pr
 
 ## License
 
-Apache 2.0 - See [LICENSE](LICENSE) for details.
+**Dual Licensing:**
+- **Code & Implementations:** Apache 2.0 - See [LICENSE](LICENSE)
+- **Documentation & Research:** CC BY 4.0 (stated in each document)
 
-**Why Apache 2.0?** Permissive licensing prevents corporate enclosure while enabling wide adoption. Consciousness measurement infrastructure must remain open.
+**Why this structure?**
+- Apache 2.0 for code prevents patent encumbrance while enabling commercial use
+- CC BY 4.0 for documentation follows academic publishing standards
+- Both are permissive licenses that prevent corporate enclosure
 
+Consciousness measurement infrastructure must remain open.
 ---
 
 ## Contact
