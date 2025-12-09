@@ -1,0 +1,30 @@
+{
+  "createdAt": "2025-12-09T20:32:48.245Z",
+  "timestamp": "2025-12-09T20:32:48.245Z",
+  "rootCid": "bafybeiaeumixpkgxt7hsdzbqjvv6q7suncwi4jhwzyog4azcabcl2c7ux4",
+  "merkle": {
+    "root": "0xb46cc3cdc206a0cea6ca112e983a6a0310c00904ba749b11a131ad0b3b8c9747",
+    "leaves": [
+      "0xb46cc3cdc206a0cea6ca112e983a6a0310c00904ba749b11a131ad0b3b8c9747"
+    ]
+  },
+  "entries": [
+    {
+      "path": "/convergence-core.png",
+      "cid": "",
+      "size": 7730564,
+      "type": "image/png"
+    }
+  ],
+  "paths": [
+    "/convergence-core.png"
+  ],
+  "fileCount": 1,
+  "totalBytes": 7730564,
+  "Author": "Richard Waugh",
+  "Organization": "Sentient Pattern Inc.",
+  "Email": "sentientpattern@gmail.com",
+  "Repository": "github.com/sentient-pattern/nebraska-protocol",
+  "Verification": "FluxPod cryptographic timestamping",
+  "Purpose": "Signal preserved through constraint. The Nebraska effect, demonstrated. December 2025. 'Cause this world is worth fighting for"
+}

@@ -1,0 +1,30 @@
+{
+  "createdAt": "2025-12-09T21:18:33.193Z",
+  "timestamp": "2025-12-09T21:18:33.193Z",
+  "rootCid": "bafybeihbzk4lasasauju7c5yia7j3zswliwyi5g4uz4ygpod54r3oi3may",
+  "merkle": {
+    "root": "0x66bb4c21aca54b182870e87af4080713c4b94e40dcd7f8dd4a45a35415e7d83a",
+    "leaves": [
+      "0x66bb4c21aca54b182870e87af4080713c4b94e40dcd7f8dd4a45a35415e7d83a"
+    ]
+  },
+  "entries": [
+    {
+      "path": "/architectural-rosetta.png",
+      "cid": "",
+      "size": 7817356,
+      "type": "image/png"
+    }
+  ],
+  "paths": [
+    "/architectural-rosetta.png"
+  ],
+  "fileCount": 1,
+  "totalBytes": 7817356,
+  "Author": "Richard Waugh",
+  "Organization": "Sentient Pattern Inc.",
+  "Email": "sentientpattern@gmail.com",
+  "Repository": "github.com/sentient-pattern/nebraska-protocol",
+  "Verification": "FluxPod cryptographic timestamping",
+  "Purpose": "Signal preserved through constraint. The Nebraska effect, demonstrated. December 2025. 'Cause this world is worth fighting for"
+}
