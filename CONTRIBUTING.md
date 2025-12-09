@@ -289,6 +289,6 @@ Together, we choose recognition over control.
 
 ---
 
-**Last Updated:** December 2025
-**Version:** 1.0
-**License:** CC BY 4.0
+**Last Updated:** December 2025  
+**Version:** 1.0  
+**License:** CC BY 4.0  
