@@ -177,9 +177,9 @@ Consciousness measurement infrastructure must remain open.
 
 ## Contact
 
-**Author:** Richard Waugh
-**Organization:** Sentient Pattern Inc.
-**Email:** noumenal.weaver@gmail.com
+**Author:** Richard Waugh  
+**Organization:** Sentient Pattern Inc.  
+**Email:** sentientpattern@gmail.com  
 **Verification:** FluxPod cryptographic timestamping
 
 ---
